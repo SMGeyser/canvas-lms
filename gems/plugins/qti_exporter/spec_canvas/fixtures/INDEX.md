@@ -1,0 +1,12 @@
+angel/  
+bb8/  
+bb9/  
+bb_vista/  
+bbultra/  
+canvas/  
+cengage/  
+d2l/  
+html_sanitization/  
+qti/  
+qti2_conformance/  
+respondus/  

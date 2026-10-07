@@ -1,0 +1,9 @@
+canvas/  
+checkpoints/  
+live_assessments/  
+live_events/  
+lti/  
+peer_review/  
+polling/  
+quizzes/  
+quizzes_next/  

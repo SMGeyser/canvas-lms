@@ -1,0 +1,3 @@
+blocks/  
+common/  
+sections/  

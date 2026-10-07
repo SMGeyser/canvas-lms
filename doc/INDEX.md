@@ -1,0 +1,10 @@
+api/  
+diagrams/  
+docker/  
+examples/  
+images/  
+lti/  
+openapi/  
+styleguide/  
+ui/  
+yard_plugins/  

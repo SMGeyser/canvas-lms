@@ -1,0 +1,2 @@
+canvas_cache/  
+fixtures/  

@@ -1,0 +1,9 @@
+base/  
+bundles/  
+components/  
+deprecated/  
+jst/  
+our_custom_tiny_mce_stuff/  
+pages/  
+variants/  
+vendor/  

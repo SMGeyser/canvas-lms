@@ -1,0 +1,3 @@
+images/  
+react/  
+redux/  

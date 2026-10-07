@@ -1,0 +1,10 @@
+AnnouncementsWidget/  
+CourseGradesWidget/  
+CourseWorkCombinedWidget/  
+CourseWorkSummaryWidget/  
+CourseWorkWidget/  
+EducatorAnnouncementCreationWidget/  
+InboxWidget/  
+PeopleWidget/  
+RecentGradesWidget/  
+TodoListWidget/  

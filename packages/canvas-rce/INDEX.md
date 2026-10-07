@@ -1,0 +1,10 @@
+__mocks__/  
+__tests__/  
+demo/  
+doc/  
+github-pages/  
+jest/  
+locales/  
+scripts/  
+src/  
+types/  

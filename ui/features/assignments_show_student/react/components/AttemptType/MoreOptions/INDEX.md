@@ -1,0 +1,2 @@
+CanvasFiles/  
+__tests__/  
